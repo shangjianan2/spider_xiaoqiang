@@ -1,0 +1,5 @@
+.vscode
+*.pyc
+novel/
+github/
+*.tar.gz

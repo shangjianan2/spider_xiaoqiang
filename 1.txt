@@ -1,0 +1,211 @@
+<html><body><p>﻿  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+</p>
+<meta content="application/xhtml+xml;charset=utf-8" http-equiv="Content-Type"/>
+<title>小强小说网_手机站_分享你钟爱的情欲小说</title>
+<meta content="小强小说网手机站" name="generator"/>
+<meta content="小强小说网手机站,科幻,强奸,乱伦,合集,重口,同人,玄幻,都市,校园,人妻,古典,绿妻,绿母" id="ctl00_metaKeywords" name="keywords"/>
+<meta content="小强小说网手机站为您综合搜集相关情欲小说,立志打造一个专业的情欲小说最大平台与分类明确让你看的得心应手！" id="ctl00_metaDescription" name="description"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" name="viewport"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"/>
+<link href="/css/index.css" rel="stylesheet"/>
+<script src="/js/xgg.js"></script>
+<style type="text/css">
+    .bannerLink .ajax_html, .list .ajax_html{height:auto; overflow:hidden; line-height:normal;}
+	.ajax_html{text-align:center; width:320px; margin:0 auto;}
+	.tabArea4 .ajax_html{width:25%; margin:0;}
+	.ajax_html img{padding:20px 0;}
+	.ajax_html b{display:none;}
+ </style>
+<a href="http://www.hdizhi1.com" target="_blank"><img height="50" src="/images/fabu.png" width="350"/></a>
+<header class="Index_Header">
+<img alt="小强小说网" class="logo" src="/images/logo.png" title="小强小说网"/>
+<a class="login" href="/login.php" id="login">登录</a> </header>
+<nav class="smallNav">
+<a href="/xclass/0/1.html">分类</a>
+<a href="/ph/week.html">排行</a>
+<a href="/quanben.html">全本</a>
+<a href="/newcase.html" style="width:32%">阅读记录</a>
+<a href="/mybook.php">书架</a>
+</nav>
+<form action="/s.php" class="searchForm" method="post" name="articlesearch">
+<input class="searchForm_input searchForm_input2" name="keyword" type="text" value="输入书名•作者"/>
+<input name="t" type="hidden" value="1"/>
+<input class="searchForm_btn" type="submit" value="搜索"/>
+</form>
+<style>
+	.s_m {
+		margin-top: 0px;
+		float: left;
+		width: 100%;
+	}
+	.s_m .q_top {
+    height: 30px;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+.c_big {
+    height: 26px;
+    padding-top: 0px;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 26px;
+    color: #fff;
+    text-indent: 10px;
+    border-bottom: 1px solid #49CC9F;
+    margin-bottom: 5px;
+	background: #68aac2;
+}
+#tag_ul {
+    display: block;
+    width: 100%;
+    float: left;
+    margin-bottom: 20px;
+}
+ul, li {
+    list-style: none;
+}
+#tag_ul li {
+    float: left;
+}
+#tag_ul li a {
+    padding: 0px 15px;
+    border: 1px solid #CCC;
+    height: 25px;
+    display: block;
+    line-height: 25px;
+    margin: 4px;
+    border-radius: 4px;
+}
+	</style>
+<div class="s_m">
+<div class="q_top c_big">标签</div>
+<div id="tagMain">
+<ul id="tag_ul">
+<li><a href="/tag/0/37/1.html"> 凌辱</a></li>
+<li><a href="/tag/0/38/1.html"> SM</a></li>
+<li><a href="/tag/0/39/1.html"> 调教</a></li>
+<li><a href="/tag/0/40/1.html"> 催眠</a></li>
+<li><a href="/tag/0/41/1.html"> 交换</a></li>
+<li><a href="/tag/0/42/1.html"> 校园</a></li>
+<li><a href="/tag/0/43/1.html"> 乡村</a></li>
+<li><a href="/tag/0/44/1.html"> 职场</a></li>
+<li><a href="/tag/0/45/1.html"> 真实</a></li>
+<li><a href="/tag/0/46/1.html"> 故事</a></li>
+<li><a href="/tag/0/47/1.html"> 武侠</a></li>
+<li><a href="/tag/0/48/1.html"> 少妇</a></li>
+<li><a href="/tag/0/49/1.html"> 娇妻</a></li>
+<li><a href="/tag/0/50/1.html"> 后宫</a></li>
+<li><a href="/tag/0/51/1.html"> 绿妻</a></li>
+<li><a href="/tag/0/52/1.html"> 绿帽</a></li>
+<li><a href="/tag/0/53/1.html"> 绿母</a></li>
+<li><a href="/tag/0/54/1.html"> 乱伦</a></li>
+<li><a href="/tag/0/55/1.html"> 同人</a></li>
+<li><a href="/tag/0/56/1.html"> 妖文</a></li>
+<li><a href="/tag/0/57/1.html"> 玄幻</a></li>
+<li><a href="/tag/0/58/1.html"> 男同</a></li>
+<li><a href="/tag/0/59/1.html"> 触手</a></li>
+<li><a href="/tag/0/60/1.html"> 穿越</a></li>
+<li><a href="/tag/0/61/1.html"> 丝足</a></li>
+<li><a href="/tag/0/62/1.html"> 古典</a></li>
+<li><a href="/tag/0/63/1.html"> 秀色</a></li>
+<li><a href="/tag/0/64/1.html"> 暴露</a></li>
+<li><a href="/tag/0/65/1.html"> 重生</a></li>
+<li><a href="/tag/0/66/1.html"> 冰恋</a></li>
+<li><a href="/tag/0/68/1.html"> 重口</a></li>
+<li><a href="/tag/0/69/1.html"> 百合</a></li>
+<li><a href="/tag/0/70/1.html"> 扶她</a></li>
+<li><a href="/tag/0/71/1.html"> 科幻</a></li>
+<li><a href="/tag/0/72/1.html"> 网游</a></li>
+<li><a href="/tag/0/73/1.html"> 都市</a></li>
+</ul>
+</div>
+</div>
+<div class="tabArea tabArea4 hot">
+<div class="tab-nav clearfix">
+<h2><a class="tab-nav-cur">强推</a></h2>
+<h2><a style="display: none;">热门</a></h2>
+<h2><a style="display: none;">全本</a></h2>
+<h2><a style="display: none;"> </a></h2>
+</div>
+<div class="slide">
+<div class="slide-con4 div">
+<div class="slide-item index_hot1">
+</div>
+</div>
+</div>
+</div>
+<div class="tabArea tabArea4 bannerLink div">
+<div class="tab-nav tab-nav4 clearfix">
+<h2><a class="tab-nav-cur">现在情欲</a></h2>
+<h2><a style="display: none;"> </a></h2>
+<h2><a style="display: none;"> </a></h2>
+<h2><a style="display: none;"> </a></h2>
+</div>
+<div class="slide">
+<div class="slide-con4">
+<div class="slide-item index_sort1">
+<ul>
+<li><a href="/7_7635/"><p><span class="sort">[现在情欲]</span><span class="title">我的美艳校长妈妈</span></p><li>
+</li><li><a href="/6_6969/"><p><span class="sort">[现在情欲]</span><span class="title">绝配娇妻小秋</span></p><li>
+</li><li><a href="/6_6987/"><p><span class="sort">[现在情欲]</span><span class="title">引狼入室之收养日记</span></p><li>
+</li><li><a href="/6_6571/"><p><span class="sort">[现在情欲]</span><span class="title">长腿校花的呻吟</span></p><li>
+</li><li><a href="/8_8227/"><p><span class="sort">[现在情欲]</span><span class="title">我成了父亲与妻子的月老</span></p><li>
+</li><li><a href="/6_6380/"><p><span class="sort">[现在情欲]</span><span class="title">老婆的性感开发之旅</span></p><li>
+</li></a></li></a></li></a></li></a></li></a></li></a></li></ul>
+</div>
+</div>
+</div>
+</div>
+<div class="tabArea tabArea4 bannerLink div">
+<div class="tab-nav tab-nav4 clearfix">
+<h2 id="H2_1"><a class="tab-nav-cur">藏经阁</a></h2>
+<h2><a style="display: none;"> </a></h2>
+<h2><a style="display: none;"> </a></h2>
+<h2><a style="display: none;"> </a></h2>
+</div>
+<div class="slide">
+<div class="slide-con4">
+<div class="slide-item index_sort1">
+<ul>
+<li><a href="/10_10946/"><p><span class="sort">[藏经阁]</span><span class="title">赤裸娇妻</span></p><li>
+</li><li><a href="/10_10960/"><p><span class="sort">[藏经阁]</span><span class="title">伟大的妈妈</span></p><li>
+</li><li><a href="/10_10962/"><p><span class="sort">[藏经阁]</span><span class="title">新家族狂欢</span></p><li>
+</li><li><a href="/10_10814/"><p><span class="sort">[藏经阁]</span><span class="title">儿时回忆之出轨的妈妈</span></p><li>
+</li><li><a href="/10_10812/"><p><span class="sort">[藏经阁]</span><span class="title">金鳞岂是池中物</span></p><li>
+</li><li><a href="/10_10816/"><p><span class="sort">[藏经阁]</span><span class="title">助人为乐的吾妻</span></p><li>
+</li></a></li></a></li></a></li></a></li></a></li></a></li></ul>
+</div>
+</div>
+</div>
+</div>
+<script language="javascript" src="/js/zepto.min.js" type="text/javascript"></script>
+<script language="javascript" src="/js/common.js" type="text/javascript"></script>
+<script language="javascript" src="/js/lazyload.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+    $(function(){
+	    $("img.lazy").lazyload();
+    });
+</script>
+<script>_17mb_tj();_17mb_bottom();</script>
+<form action="/s.php" class="searchForm" method="post" name="articlesearch">
+<input class="searchForm_input searchForm_input2" name="keyword" type="text" value="输入书名•作者"/>
+<input name="t" type="hidden" value="1"/>
+<input class="searchForm_btn" type="submit" value="搜索"/>
+</form>
+<script> D77B2CE431F8();</script>
+<p class="note">
+</p><div class="fuzhanhaha">
+<h2><a href="http://m.hdizhi.com" rel="nofollow" title="备用站地址1">备用站地址1</a> | <a href="http://m.hdizhi1.com" rel="nofollow" title="备用站地址2">备用站地址2</a> </h2>
+<footer>
+<a href="#top"><img alt="↑" src="/images/icon-backtop.gif" title="↑"/></a>
+<p class="version channel">
+<a href="/">首页</a>
+<a href="/mybook.php">我的书架</a>
+<a href="/newcase.html">阅读记录</a>
+<script language="JavaScript" src="https://s13.cnzz.com/z_stat.php?id=1273334923&amp;web_id=1273334923"></script>
+</p>
+</footer>
+</div></body></html>
